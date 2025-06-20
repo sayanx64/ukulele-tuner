@@ -9,6 +9,7 @@ It works entirely in the browser — no downloads needed!
 ## 🔗 Try it here:
 
 👉 [https://sayanx64.github.io/ukulele-tuner](https://sayanx64.github.io/ukulele-tuner)
+or here 👉 [https://ukulele-tuner-pied.vercel.app/](https://ukulele-tuner-pied.vercel.app/)
 
 > ✅ Make sure to allow microphone access when your browser asks.  
 > 🎧 Works best on Chrome or Firefox.
