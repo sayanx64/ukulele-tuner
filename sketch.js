@@ -12,13 +12,6 @@ let notes = [
   { note: 'G', freq: 392.00 }
 ];
 
-function startAudioContext() {
-  getAudioContext().resume().then(() => {
-    document.getElementById("overlay").style.display = "none";
-    console.log("Audio context started");
-  });
-}
-
 function setup() {
   let canvas = createCanvas(360, 400);
   canvas.parent("sketch-holder");
@@ -89,4 +82,11 @@ function getClosestNote(frequency) {
     }
   }
   return closest;
+}
+
+function startAudioContext() {
+  getAudioContext().resume().then(() => {
+    document.getElementById("overlay").style.display = "none";
+    console.log("Audio context started");
+  });
 }
