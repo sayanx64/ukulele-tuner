@@ -2,7 +2,9 @@
 
 This is a small web app that helps you tune your ukulele using your computer's microphone.  
 It listens to the sound and shows how close you are to the correct note (A, E, C, G).  
-It works entirely in the browser — no downloads needed!
+It works entirely in the browser — no downloads needed! 
+
+**It's a bit laggy right now, but I'm working on making it smoother soon!**
 
 ---
 
