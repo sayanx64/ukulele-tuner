@@ -24,6 +24,7 @@ canvas {
   border-radius: 8px;
   box-shadow: 0 0 20px #00ff88;
 }
+
 #overlay {
   position: fixed;
   top: 0;
